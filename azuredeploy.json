@@ -18,8 +18,8 @@
         },
         "deploymentId": null,
         "location": null,
-        "sqlServerLogin": null,
-        "sqlServerPassword": null,
+        "sqlServerLogin": "sqlAdmin",
+        "sqlServerPassword": "V8!KYt5TfC",
         "coreSqlDatabaseName": null,
         "cdWebAppName": null,
         "cmWebAppName": null
@@ -28,9 +28,9 @@
     "extension": {
       "type": "secureObject",
       "defaultValue": {
-        "cdSxaMsDeployPackageUrl": null,
-        "cmSxaMsDeployPackageUrl": null,
-        "speMsDeployPackageUrl": null,
+        "cdSxaMsDeployPackageUrl": "https://github.com/sinnan/sxadeploument/raw/main/CD.scwdp.zip",
+        "cmSxaMsDeployPackageUrl": "https://github.com/sinnan/sxadeploument/raw/main/PowerShell.scwdp.zip",
+        "speMsDeployPackageUrl": "https://github.com/sinnan/sxadeploument/raw/main/sxa.scwdp.zip",
         "solrCorePrefix": "sitecore"
       }
     },
