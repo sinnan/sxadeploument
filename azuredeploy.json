@@ -21,8 +21,8 @@
         "sqlServerLogin": "sqlAdmin",
         "sqlServerPassword": "V8!KYt5TfC",
         "coreSqlDatabaseName": null,
-        "cdWebAppName": null,
-        "cmWebAppName": null
+        "cdWebAppName": "mcp-07cef868-69a3-463e-9470-7330-cd",
+        "cmWebAppName": "mcp-07cef868-69a3-463e-9470-7330-cm"
       }
     },
     "extension": {
