@@ -14,7 +14,7 @@
       "type": "secureObject",
       "defaultValue": {
         "infrastructure": {
-          "sqlServerFqdn": "tcp:mcp-07cef868-69a3-463e-9470-7330-sql.database.windows.net,1433"
+          "sqlServerFqdn": "mcp-07cef868-69a3-463e-9470-7330-sql.database.windows.net"
         },
         "deploymentId": null,
         "location": null,
